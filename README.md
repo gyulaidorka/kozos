@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dorka tananyag
 
 - dfgjhsjdfg
@@ -22,3 +23,6 @@ namespace HelloWorld
 [Felirat](http://es6.eu)
 
 $$x_{1,2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+=======
+# tananyagom
+>>>>>>> 17cc18a (.)
